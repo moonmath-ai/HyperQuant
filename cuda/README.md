@@ -1,4 +1,4 @@
-# MetalRice CUDA Kernels
+# CUDA Kernels
 
 GPU-side Rice codec kernels for the HyperQuant weight and KV-cache compression.
 
